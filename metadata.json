@@ -2,5 +2,16 @@
   "name": "Pis Miow Coin",
   "symbol": "PMC",
   "description": "Pis Miow Coin is a token that represents unique digital assets. It is associated with health-related products like healing oil and health tea. The token aims to promote wellness and provide benefits through its associated products.",
-  "image": "https://raw.githubusercontent.com/pismiowcoin/PMC/main/miow.png"
+  "image": "https://raw.githubusercontent.com/pismiowcoin/PMC/main/miow.png",
+  "decimals": 6,
+  "external_url": "",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "bosuRpthHZ4pWqgwnG9c4dx9JHo2w7uZQyTTF9vpKxj",
+        "share": 100
+      }
+    ]
+  }
 }
